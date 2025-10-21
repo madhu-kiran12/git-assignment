@@ -7,3 +7,9 @@ so we need to contact developers who changes the code of branch1 and branch2.
 Then they will decide and tell us whose changes should we take into merge.
 then we take that change and we commit it.
 we get to know who modified the code on branch1 and branch2 using git log command.
+
+Hi
+
+this is how we can resolve merge conflit
+
+by connecting with developers.
